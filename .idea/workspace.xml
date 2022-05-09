@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5efcc688-b0d1-48b7-920a-c00e7e1fcde7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organization.html" beforeDir="false" afterPath="$PROJECT_DIR$/organization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/draw/Cópia_de_segurança_de_VEM2022.cdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/draw/Cópia_de_segurança_de_colors.cdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/draw/Cópia_de_segurança_de_hero-img-vem.cdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/photothumb.db" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651939487683</updated>
       <workItem from="1651939488830" duration="15105000" />
-      <workItem from="1652101656499" duration="7794000" />
+      <workItem from="1652101656499" duration="7974000" />
     </task>
     <servers />
   </component>
