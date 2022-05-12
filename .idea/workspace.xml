@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5efcc688-b0d1-48b7-920a-c00e7e1fcde7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/draw/Cópia_de_segurança_de_VEM2022.cdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/draw/Cópia_de_segurança_de_colors.cdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/draw/Cópia_de_segurança_de_hero-img-vem.cdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/photothumb.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +79,7 @@
       <updated>1651939487683</updated>
       <workItem from="1651939488830" duration="15105000" />
       <workItem from="1652101656499" duration="7974000" />
+      <workItem from="1652301117331" duration="6126000" />
     </task>
     <servers />
   </component>
@@ -99,5 +96,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1040" y="-447" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1652304070135">
+      <screen x="-1080" y="-805" width="864" height="1496" />
+    </state>
+    <state x="-1040" y="-447" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/-1080.-805.864.1496@-1080.-805.864.1496" timestamp="1652304070135" />
   </component>
 </project>
