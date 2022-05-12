@@ -1214,8 +1214,8 @@ section {
   justify-content: center;
   align-items: center;
 }
-li.item-orange::before {
-  content: "•";
-  color: #ee7843;
-  margin-right: 10px;
-}
+/*li.item-orange::before {*/
+/*  content: "•";*/
+/*  color: #ee7843;*/
+/*  margin-right: 10px;*/
+/*}*/
