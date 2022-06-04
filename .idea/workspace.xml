@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5efcc688-b0d1-48b7-920a-c00e7e1fcde7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/acmart-primary.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/callForPapers.html" beforeDir="false" afterPath="$PROJECT_DIR$/callForPapers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organization.html" beforeDir="false" afterPath="$PROJECT_DIR$/organization.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,8 @@
       <workItem from="1652101656499" duration="7974000" />
       <workItem from="1652301117331" duration="10907000" />
       <workItem from="1652355511457" duration="1069000" />
-      <workItem from="1654252165396" duration="1669000" />
+      <workItem from="1654252165396" duration="1972000" />
+      <workItem from="1654317665310" duration="309000" />
     </task>
     <servers />
   </component>
