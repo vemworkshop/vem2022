@@ -23,7 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5efcc688-b0d1-48b7-920a-c00e7e1fcde7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/panel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acceptedPapers.html" beforeDir="false" afterPath="$PROJECT_DIR$/acceptedPapers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attending.html" beforeDir="false" afterPath="$PROJECT_DIR$/attending.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callForPapers.html" beforeDir="false" afterPath="$PROJECT_DIR$/callForPapers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keynotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/keynotes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organization.html" beforeDir="false" afterPath="$PROJECT_DIR$/organization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/previousEditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/previousEditions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +70,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\raila\Desktop\CBSOFT 2022 - VEM\vem2022\template" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\raila\Desktop\CBSOFT 2022 - VEM\vem2022" />
       <recent name="C:\Users\raila\Desktop\CBSOFT 2022 - VEM\ninestars" />
       <recent name="C:\Users\raila\Desktop\CBSOFT 2022 - VEM\ninestars\assets\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\raila\Desktop\CBSOFT 2022 - VEM\vem2022\template" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,7 +98,7 @@
       <workItem from="1654717517394" duration="1432000" />
       <workItem from="1658518997104" duration="2198000" />
       <workItem from="1661255267483" duration="1902000" />
-      <workItem from="1662734424027" duration="1518000" />
+      <workItem from="1662734424027" duration="3950000" />
     </task>
     <servers />
   </component>
