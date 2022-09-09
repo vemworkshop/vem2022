@@ -23,15 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5efcc688-b0d1-48b7-920a-c00e7e1fcde7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/acceptedPapers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attending.html" beforeDir="false" afterPath="$PROJECT_DIR$/attending.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/callForPapers.html" beforeDir="false" afterPath="$PROJECT_DIR$/callForPapers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keynotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/keynotes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organization.html" beforeDir="false" afterPath="$PROJECT_DIR$/organization.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/previousEditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/previousEditions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,20 +51,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jeziellago/Desktop/RAILANA/vem2022",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\raila\Desktop\CBSOFT 2022 - VEM\vem2022\template" />
@@ -101,6 +88,7 @@
       <workItem from="1654717517394" duration="1432000" />
       <workItem from="1658518997104" duration="2198000" />
       <workItem from="1661255267483" duration="1902000" />
+      <workItem from="1662734424027" duration="93000" />
     </task>
     <servers />
   </component>
